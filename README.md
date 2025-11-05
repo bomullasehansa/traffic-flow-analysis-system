@@ -6,7 +6,7 @@ A Python-based system that analyzes traffic flow using CSV datasets and outputs 
 - `traffic_flow.py` — main program
 - CSV files — input datasets
 - `results.txt` — output summary
-2024.12.24- Date
+- 2024.12.24- Date
 
 ## ⚙️ How to Run
 1. Install Python 3.8 or above
